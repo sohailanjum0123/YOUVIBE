@@ -1,1 +1,1 @@
-this is backend for video sharing app
+this is backend for video sharing apps
