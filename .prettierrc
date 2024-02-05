@@ -2,6 +2,7 @@
 {
     "singleQuote":false,
     "bracketSpace":true,
-    "tabSpace":2,
+    "tabWidth":2,
+    "trailingComma": "es5",
     "semi":true
 }
